@@ -3,4 +3,5 @@ anahtar.key
 gizli_soru.txt
 parola_hash.txt
 passwords.db
+password_manager.log
 *.db  # Tüm veritabanı dosyalarını kapsar (yedekler dahil)
