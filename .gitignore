@@ -1,0 +1,6 @@
+# Hassas dosyalar
+anahtar.key
+gizli_soru.txt
+parola_hash.txt
+passwords.db
+*.db  # Tüm veritabanı dosyalarını kapsar (yedekler dahil)
