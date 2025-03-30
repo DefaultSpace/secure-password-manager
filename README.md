@@ -1,7 +1,7 @@
-🔒 Secure Password Manager
+## 🔒 Secure Password Manager
 Welcome to Secure Password Manager! 🎉 This project is a simple yet effective password management tool built with Python. It allows you to securely store, manage, and retrieve your passwords with ease while supporting multiple languages for a better user experience. 🌍
 
-📖 About the Project
+## 📖 About the Project
 Secure Password Manager is designed to help you:
 
 🛡️ Store your passwords securely.
@@ -10,10 +10,10 @@ Secure Password Manager is designed to help you:
 🧪 Test the functionality with included test scripts.
 This project is perfect for anyone looking to manage their passwords safely or learn about password management systems in Python. 🚀
 
-🛠️ Installation
+## 🛠️ Installation
 Follow these steps to set up the project on your local machine:
 
-Prerequisites
+## Prerequisites
 🐍 Python 3.6 or higher
 📦 pip (Python package manager)
 Steps
